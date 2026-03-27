@@ -1,16 +1,26 @@
-# React + Vite
+# 🍪 Kayana Cake and Cookies
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Halo! Selamat datang di *repository* **Kayana Cake and Cookies**. 
 
-Currently, two official plugins are available:
+Website ini saya (Farrel) buat khusus untuk membantu usaha kuliner rumahan milik Mama saya yang sudah berdiri dan dipercaya sejak tahun **2010** di Palembang. Karena jualan Mama semakin banyak variannya, saya buatkan katalog digital ini agar pelanggan lama maupun baru lebih mudah melihat menu dan langsung pesan via WhatsApp.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🌐 Kunjungi Toko Kami
+Penasaran dengan menunya? Silakan kunjungi website katalog kami di sini:
+👉 **[KLIK DI SINI UNTUK BUKA WEBSITE] (Masukkan-Link-Vercel-Kamu-Di-Sini.vercel.app)**
 
-## React Compiler
+## 🥘 Menu Andalan Mama
+Semua makanan di sini dibuat *homemade* dengan resep keluarga turun-temurun, higienis, dan pastinya menggunakan bahan premium. Beberapa menu favorit pelanggan kami:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **🐟 Pempek Khas Palembang:** Menggunakan ikan tenggiri asli pilihan. Cukonya kental, pedas mantap, dan dikemas vakum agar aman dikirim ke luar kota.
+- **🍍 Kue Kering (Nastar):** Nastar lumer dengan isian selai nanas asli buatan sendiri yang berlimpah.
+- **🍗 Lauk Pauk (Ayam Kampung):** Ayam kampung ungkep bumbu kuning yang meresap sampai ke tulang, siap goreng untuk stok lauk di rumah.
 
-## Expanding the ESLint configuration
+## 📦 Cara Pemesanan
+Tidak perlu ribet bikin akun atau *checkout* di web. Cukup buka [website kami], pilih menu yang bikin kamu ngiler, lalu klik tombol **"Pesan via WhatsApp"**. Kamu akan langsung terhubung dengan Mama saya untuk konfirmasi pesanan dan pengiriman.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+*Bisa kirim ke luar kota untuk menu tertentu (seperti pempek vakum)!*
+
+---
+
+### 💻 *For Developers*
+*Sedikit info teknis: Website ini saya bangun menggunakan **React (Vite)** dan **Tailwind CSS v4**. Berjalan tanpa database (semua data menu diatur via JSON) agar cepat, ringan, dan mudah di-maintenance secara gratis menggunakan **Vercel**.*
