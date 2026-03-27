@@ -6,7 +6,7 @@ Website ini saya (Farrel) buat khusus untuk membantu usaha kuliner rumahan milik
 
 ## 🌐 Kunjungi Toko Kami
 Penasaran dengan menunya? Silakan kunjungi website katalog kami di sini:
-👉 **[KLIK DI SINI UNTUK BUKA WEBSITE] (Masukkan-Link-Vercel-Kamu-Di-Sini.vercel.app)**
+👉 **https://kayanacnc.vercel.app/**
 
 ## 🥘 Menu Andalan Mama
 Semua makanan di sini dibuat *homemade* dengan resep keluarga turun-temurun, higienis, dan pastinya menggunakan bahan premium. Beberapa menu favorit pelanggan kami:
@@ -16,7 +16,7 @@ Semua makanan di sini dibuat *homemade* dengan resep keluarga turun-temurun, hig
 - **🍗 Lauk Pauk (Ayam Kampung):** Ayam kampung ungkep bumbu kuning yang meresap sampai ke tulang, siap goreng untuk stok lauk di rumah.
 
 ## 📦 Cara Pemesanan
-Tidak perlu ribet bikin akun atau *checkout* di web. Cukup buka [website kami], pilih menu yang bikin kamu ngiler, lalu klik tombol **"Pesan via WhatsApp"**. Kamu akan langsung terhubung dengan Mama saya untuk konfirmasi pesanan dan pengiriman.
+Tidak perlu ribet bikin akun atau *checkout* di web. Cukup buka [[website kami]](https://kayanacnc.vercel.app/), pilih menu yang bikin kamu ngiler, lalu klik tombol **"Pesan via WhatsApp"**. Kamu akan langsung terhubung dengan Mama saya untuk konfirmasi pesanan dan pengiriman.
 
 *Bisa kirim ke luar kota untuk menu tertentu (seperti pempek vakum)!*
 
