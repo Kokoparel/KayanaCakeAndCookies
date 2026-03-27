@@ -6,7 +6,7 @@ Website ini saya (Farrel) buat khusus untuk membantu usaha kuliner rumahan milik
 
 ## 🌐 Kunjungi Toko Kami
 Penasaran dengan menunya? Silakan kunjungi website katalog kami di sini:
-👉 **https://kayanacnc.vercel.app/**
+👉 **[[KLIK DI SINI UNTUK BUKA WEBSITE]](https://kayanacnc.vercel.app/)**
 
 ## 🥘 Menu Andalan Mama
 Semua makanan di sini dibuat *homemade* dengan resep keluarga turun-temurun, higienis, dan pastinya menggunakan bahan premium. Beberapa menu favorit pelanggan kami:
