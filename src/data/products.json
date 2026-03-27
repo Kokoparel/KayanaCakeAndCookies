@@ -1,0 +1,32 @@
+[
+    {
+        "id": "PMK-01",
+        "nama": "Paket Pempek Campur (Kecil)",
+        "harga": "Rp 100.000",
+        "kategori": "Pempek",
+        "deskripsiSingkat": "Isi 20 pcs pempek campur (adaan, lenjer, telur) + cuko kental.",
+        "deskripsiLengkap": "Paket hemat pempek campur asli ikan tenggiri pilihan. Sudah termasuk 1 botol cuko kental khas Palembang. Dikemas vakum agar aman dikirim ke luar kota. Tahan 3 hari di suhu ruang, 1 bulan di freezer. Cocok untuk oleh-oleh atau konsumsi keluarga.",
+        "gambarUrl": "/images/pempek.jpg",
+        "status": "tersedia"
+    },
+    {
+        "id": "KUE-1",
+        "nama": "Nastar",
+        "harga": "Rp 120.000",
+        "kategori": "Kue",
+        "deskripsiSingkat": "Nastar lumer di mulut dengan isian selai nanas asli buatan sendiri.",
+        "deskripsiLengkap": "Kue kering klasik favorit keluarga. Dibuat menggunakan paduan mentega pilihan untuk tekstur yang sangat lumer dan wangi. Isian selai nanasnya dibuat segar dari nanas asli Palembang tanpa pemanis buatan, memberikan perpaduan rasa manis dan asam yang pas. Dikemas cantik dalam toples 500gr, sangat cocok untuk camilan di rumah atau hantaran di hari raya.",
+        "gambarUrl": "/images/nastar.jpg",
+        "status": "tersedia"
+    },
+    {
+        "id": "AYM-01",
+        "nama": "Ayam",
+        "harga": "Rp 135.000",
+        "kategori": "Ayam",
+        "deskripsiSingkat": " 1 ekor ayam kampung potong 4, diungkep rempah kuning. Tinggal goreng!.",
+        "deskripsiLengkap": " Solusi lauk praktis dan sehat untuk keluarga. Menggunakan 1 ekor ayam kampung asli (dipotong 4) yang diungkep perlahan dengan bumbu rempah kuning rahasia Kayana hingga meresap sempurna ke tulang. Dagingnya empuk tapi tetap bertekstur khas ayam kampung. Dikemas vakum higienis, tinggal digoreng atau dibakar sebentar di rumah. Sudah termasuk sambal! Tahan 1 bulan di dalam freezer.",
+        "gambarUrl": "/images/ayam.jpg",
+        "status": "sold out"
+    }
+]
